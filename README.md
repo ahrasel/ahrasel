@@ -1,4 +1,4 @@
-<img src="/img/header1.jpg?raw=true"></img>
+<img src="/img/header1.jpg?raw=true" height="300" width="100%"></img>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/ahraselahamed/"><img height="30" src="/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
