@@ -15,7 +15,7 @@
 
 ### 💼 Where i am currently working at
 
-- [WinWinServiceProvider: Sr. Software Engineer](http://winwinsp.com/) 💼
+- [WinWinServiceProvider: Fullstack Developer](http://winwinsp.com/) 💼
 - Occasionally freelancing ⛵️
 
 ### 💻 What i am currently/done working on
