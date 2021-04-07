@@ -1,11 +1,11 @@
 <img src="/img/header.jpg?raw=true"></img>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/pascalluther/"><img height="30" src="/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@pascalluther"><img height="30" src="/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/pascalabroad"><img height="30" src="/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/pascalluther"><img height="30" src="/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/pascal.luther"><img height="30" src="/icons/facebook.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/ahraselahamed/"><img height="30" src="/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+
+<a href="https://twitter.com/ahraselahamed"><img height="30" src="/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/ahraselahamed"><img height="30" src="/icons/facebook.png?raw=true"></a>
+
 </p>
 
 <h2 align="center">Hey there - this is AH Rasel Ahamed. 👋</h2>
@@ -34,7 +34,7 @@
 
 - [Stack Overflow](https://stackoverflow.com/users/6441801/ah-rasel)
 - [LinkedIn](https://www.linkedin.com/in/ahraselahamed/)
-- [Facebook](https://web.facebook.com/ahraselahamed)
+- [Facebook](https://facebook.com/ahraselahamed)
 - [Twitter](https://twitter.com/ahraselahamed)
 - [Youtube](https://www.youtube.com/channel/UCGr4nfgogTZXevpx1lwcpjg)
 
