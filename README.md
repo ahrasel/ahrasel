@@ -1,8 +1,7 @@
-<img src="/img/header.jpg?raw=true"></img>
+<img src="/img/header1.jpg?raw=true"></img>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/ahraselahamed/"><img height="30" src="/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-
 <a href="https://twitter.com/ahraselahamed"><img height="30" src="/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://facebook.com/ahraselahamed"><img height="30" src="/icons/facebook.png?raw=true"></a>
 
