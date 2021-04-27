@@ -20,7 +20,7 @@
 
 ### 💻 What i am currently/done working on
 
-- From 9 to 5: Top secret work related stuff for WinWin Service Provider 😼
+- From 9 to 4: Top secret work related stuff for WinWin Service Provider 😼
 - [Digital Bookshelf Using Lumen & Nuxt.Js](#) 🏊
 - [E-Wallet Using Flutter & Firebase](#) 🔥
 - [Digital Pharmacy Using Flutter, Nuxt.Js & Laravel](#) 🔥 💪
