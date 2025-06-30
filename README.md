@@ -52,9 +52,9 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with 5+ 
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahrasel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ahrasel](https://www.linkedin.com/in/ahraselahamed))
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)]([https://stackoverflow.com/users/youruserid](https://stackoverflow.com/users/6441801/ah-rasel))
-[![Website](https://img.shields.io/badge/Website-24292E?style=flat&logo=google-chrome&logoColor=white)]([https://yourwebsite.com](https://ahrasel.com/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahraselahamed)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6441801/ah-rasel)
+[![Website](https://img.shields.io/badge/Website-24292E?style=flat&logo=google-chrome&logoColor=white)](https://ahrasel.com/)
 
 ---
 
